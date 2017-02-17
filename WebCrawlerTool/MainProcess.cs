@@ -38,6 +38,11 @@ namespace WebCrawlerTool
         string urlMain_MSI_1151_NA = "http://www.vitinhnaman.com/component/virtuemart/mainboard-for-intel/msi2013-09-23-04-40-43_/socket-1152.html";
         string urlMain_Asus_1151_NA = "http://www.vitinhnaman.com/component/virtuemart/mainboard-for-intel/asus-mainboard/socket-1151-asus.html";
         string urlMain_Asus_2011V3_NA = "http://www.vitinhnaman.com/component/virtuemart/mainboard-for-intel/asus-mainboard/socket-2011-v3-x99.html";
+        string urlCPU_1151_NA ="http://www.vitinhnaman.com/component/virtuemart/cpu/cpu-intel/socket-1151.html";
+        string urlCPU_2011V3_NA ="http://www.vitinhnaman.com/component/virtuemart/cpu/cpu-intel/socket-2011-32014-09-21-07-30-59_.html";
+
+        //le phung 
+        string urlCPU_LP = "http://www.lephung.vn/SanPham/DS/586/cpu---vi-xu-ly";
 
 
 
@@ -46,5 +51,7 @@ namespace WebCrawlerTool
             int count = 0;
             return count;
         }
+
+        public 
     }
 }
